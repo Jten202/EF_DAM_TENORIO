@@ -6,4 +6,11 @@
     <string name="inicio2">¿Olvidaste tu contraseña?</string>
     <string name="cuen">¿No tienes una cuenta?</string>
     <string name="reg">Registrate</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi perfil</string>
 </resources>
