@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Tenorio</string>
+    <string name="USER" />
+    <string name="btnLog">Iniciar sesión</string>
+    <string name="txt_inicio">     Iniciar sesión con Facebook</string>
+    <string name="inicio2">¿Olvidaste tu contraseña?</string>
+    <string name="cuen">¿No tienes una cuenta?</string>
+    <string name="reg">Registrate</string>
+</resources>
